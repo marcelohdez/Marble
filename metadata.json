@@ -1,0 +1,9 @@
+{
+  "name": "Marble",
+  "description": "Simple experimental tiling extension for GNOME",
+  "uuid": "marble@marcelohdez.com",
+  "shell-version": ["47"],
+  "url": "https://github.com/marcelohdez/Marble",
+  "gettext-domain": "marble@marcelohdez.com",
+  "settings-schema": "org.gnome.shell.extensions.marble"
+}

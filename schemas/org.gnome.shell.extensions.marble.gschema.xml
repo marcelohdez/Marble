@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.marble" path="/org/gnome/shell/extensions/marble/">
+    <!-- Focus binds -->
+    <key name="focus-left" type="as">
+      <default><![CDATA[['<Super>h']]]></default>
+      <summary>Focus left</summary>
+      <description>Move focus left</description>
+    </key>
+    <key name="focus-down" type="as">
+      <default><![CDATA[['<Super>j']]]></default>
+      <summary>Focus down</summary>
+      <description>Move focus down</description>
+    </key>
+    <key name="focus-up" type="as">
+      <default><![CDATA[['<Super>k']]]></default>
+      <summary>Focus up</summary>
+      <description>Move focus up</description>
+    </key>
+    <key name="focus-right" type="as">
+      <default><![CDATA[['<Super>l']]]></default>
+      <summary>Focus right</summary>
+      <description>Move focus right</description>
+    </key>
+  </schema>
+</schemalist>
